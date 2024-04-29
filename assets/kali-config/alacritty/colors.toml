@@ -1,0 +1,3 @@
+import = [
+  "$XDG_CONFIG_HOME/alacritty/themes/{challenger_deep}.toml"
+]

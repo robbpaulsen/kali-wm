@@ -1,0 +1,13 @@
+/**
+ *
+ * Author : Robbpaulsen
+ * Github : @robbpaulsen
+ * 
+ * Fonts
+ *
+ **/
+
+* {
+    font: "Iosevka Nerd Font 12";
+}
+

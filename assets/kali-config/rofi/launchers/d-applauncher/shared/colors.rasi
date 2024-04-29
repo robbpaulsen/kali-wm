@@ -1,0 +1,22 @@
+/**
+ * Modified by: Robbpaulsen
+ * Github:      github.com/robbpaulsen
+ *
+ * Colors
+ * Available Colors Schemes
+ *
+ * adapta    catppuccin    everforest    navy       paper
+ * arc       cyberpunk     gruvbox       nord       solarized
+ * black     dracula       lovelace      onedark    yousai
+ **/
+
+/* Aqui se declara el color a usarse como tema del directorio `colors` */
+
+@import "~/.config/rofi/colors/dracula.rasi"
+
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ *
+ **/

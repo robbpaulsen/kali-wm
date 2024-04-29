@@ -1,0 +1,11 @@
+@import "$HOME/.config/rofi/colors/catppuccin.rasi"
+
+configuration {
+    modes:              "drun";
+    font:               "AgaveNFM-Regular 12";
+    location:           0;
+    yoffset:            0;
+    xoffset:            0;
+    fixed-num-lines:    true;
+    show-icons:         true;
+  }

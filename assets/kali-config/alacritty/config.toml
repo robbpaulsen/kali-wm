@@ -1,0 +1,39 @@
+live_config_reload = true
+
+[shell]
+args = [
+'--login'
+]
+
+program = "zsh"
+
+[cursor]
+blink_interval = 550
+unfocused_hollow = false
+
+[scrolling]
+history = 100000
+multiplier = 3
+
+[cursor.style]
+style = "Block"
+thickness = 0.2
+
+opacity = 0.90
+
+blur = true
+
+multiplier = 5
+
+[selection]
+save_to_clipboard = true
+
+[window]
+decorations = "full"
+dynamic_title = true
+opacity = 0.90
+blur = true
+
+[window.padding]
+x = 32
+y = 32

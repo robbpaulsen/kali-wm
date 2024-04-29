@@ -1,0 +1,19 @@
+/**
+ *
+ * Modified by: Robbpaulsen (ozymandias)
+ * Github:      github.com/robbpaulsen
+ * 
+ * Aqui se importaran el tipo de font a usarse en cada "launcher"
+ *
+ **/
+
+* {
+    font: "JetBrains Mono Nerd Font 10";
+}
+
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ *
+ **/

@@ -1,0 +1,44 @@
+@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+
+configuration {
+    modes:                             "drun";
+    font:               "AgaveNFM-Regular 16";
+    fixed-num-lines:                     true;
+    show-icons:                          true;
+}
+
+window {
+    background-color:             black / 80%;
+    border-color:                        cyan;
+    border-radius:                0 8mm 0 8mm;
+
+    padding:                              8mm;
+
+    height:                               50%;
+    width:                               180mm;
+    border:                   2mm 2mm 2mm 1px;
+    location:                            west;
+    anchor:                              west;
+    text-color:                         white;
+}
+
+textbox-current-entry {
+    border-radius:                       10mm;
+    background-color:                darkcyan;
+    text-color:                         white;
+    placeholder:                        "n/a";
+    padding:                              2mm;
+    horizontal-align:                     0.5;
+}
+
+mainbox {
+    expand:                              true;
+    background-color:             transparent;
+    spacing:                              5mm;
+    children: [
+                inputbar,
+                listview,
+                icon-current-entry,
+                textbox-current-entry
+    ];
+}

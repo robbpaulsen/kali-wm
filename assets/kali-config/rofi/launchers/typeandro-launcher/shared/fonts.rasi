@@ -1,0 +1,12 @@
+/**
+ *
+ * Author : Robbpaulsen
+ * Github : @robbpaulsen
+ * 
+ * Fonts
+ *
+ **/
+
+* {
+    font: "CaskadiaCove Nerd Font Regular 9";
+}
